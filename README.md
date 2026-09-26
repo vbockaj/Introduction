@@ -1,36 +1,29 @@
-<!-- ============ ANIMATED HEADER BANNER ============ -->
+<!-- ============ HEADER ============ --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20to%20Work&descAlignY=58&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E026D,50:7E22CE,100:C026D3&height=280&section=header&text=Valerija%20Bo%C4%8Dkaj&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20and%20Computer%20Scientist&descAlignY=60&descSize=22" />
 </p>
-
-<!-- ============ TYPING ANIMATION ============ -->
+<!-- ============ TYPING ============ --> 
+<p align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+YOUR+NAME;Software+Developer+%F0%9F%92%BB;Full+Stack+%7C+Problem+Solver;Always+learning+%F0%9F%9A%80;Open+to+new+opportunities!" alt="Typing SVG" /> 
+  </a> 
+</p> 
+<!-- ============ BADGES ============ --> 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YOUR+NAME;Software+Developer+%F0%9F%92%BB;Embedded+Systems+%7C+Full+Stack;Always+learning+%F0%9F%9A%80;Open+to+new+opportunities!" alt="Typing SVG" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-7E22CE?style=for-the-badge&labelColor=2E026D" />
+</p> 
 
-<!-- ============ BADGES ============ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=vbockaj&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <a href="https://github.com/vbockaj?tab=followers">
-    <img src="https://img.shields.io/github/followers/vbockaj?label=Followers&style=for-the-badge&color=blueviolet" />
-  </a>
-</p>
+</p> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" /> 
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" align="center"> About Me </h2> 
+  <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🎓 Studying **YOUR DEGREE** at **YOUR UNIVERSITY**
-- 💼 Currently working as **YOUR ROLE** at **YOUR COMPANY**
-- 🔭 Working on **YOUR CURRENT PROJECT**
-- 🌱 Learning **TECHNOLOGIES YOU'RE LEARNING**
-- 🎯 Looking for **Internships / Working Student / Full-time roles** in **YOUR FIELD**
-- 📫 Reach me at **your.email@example.com**
+- 🎓 M.A. Information and Computer Science at University of Zagreb
+- 💼 Currently working as Administrative Assistant at Student Center
+- 🔭 Working on Job Application Tracker, Quiz App, E-Commerce Front-End, and Dashboard UI
+- 🌱 Learning C++, Java
+- 🎯 Looking for Full-time roles in Web & Software Development, Data Analytics, and Data Annotation
+- 📫 Reach me at vbockaj@gmail.com
 - 📄 [My Resume](YOUR_RESUME_LINK)
 - ⚡ Fun fact: **YOUR FUN FACT**
 
@@ -44,8 +37,6 @@
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,react,nodejs,mysql,git,github,vscode&perline=12" /> 
   </a> 
 </p>
-
-<!-- Change the icon list above: full list at https://github.com/tandpfun/skill-icons#icons-list -->
 
 ---
 
@@ -103,5 +94,5 @@
 
 <!-- ============ ANIMATED FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:7E22CE,100:2E026D&height=140&section=footer" />
 </p>
