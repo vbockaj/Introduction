@@ -13,9 +13,9 @@
 <!-- ============ BADGES ============ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=vbockaj&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/vbockaj?tab=followers">
+    <img src="https://img.shields.io/github/followers/vbockaj?label=Followers&style=for-the-badge&color=blueviolet" />
   </a>
 </p>
 
@@ -53,29 +53,29 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**PROJECT_ONE**](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE) | One-line description of what it does and the impact | `Python` `React` |
-| [**PROJECT_TWO**](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO) | One-line description of what it does and the impact | `C` `STM32` |
-| [**PROJECT_THREE**](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_THREE) | One-line description of what it does and the impact | `Node.js` `MongoDB` |
+| [**PROJECT_ONE**](https://github.com/vbockaj/PROJECT_ONE) | One-line description of what it does and the impact | `Python` `React` |
+| [**PROJECT_TWO**](https://github.com/vbockaj/PROJECT_TWO) | One-line description of what it does and the impact | `C` `STM32` |
+| [**PROJECT_THREE**](https://github.com/vbockaj/PROJECT_THREE) | One-line description of what it does and the impact | `Node.js` `MongoDB` |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vbockaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbockaj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbockaj&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vbockaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbockaj&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -85,8 +85,8 @@
 <!-- Needs the GitHub Action in .github/workflows/snake.yml (see setup notes) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vbockaj/vbockaj/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/vbockaj/vbockaj/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
