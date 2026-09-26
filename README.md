@@ -1,79 +1,84 @@
-<!-- ============ HEADER ============ --> 
+<!-- ============ HEADER ============ -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E026D,50:7E22CE,100:C026D3&height=280&section=header&text=Valerija%20Bo%C4%8Dkaj&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20and%20Computer%20Scientist&descAlignY=60&descSize=22" />
 </p>
-<!-- ============ TYPING ============ --> 
-<p align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+YOUR+NAME;Software+Developer+%F0%9F%92%BB;Full+Stack+%7C+Problem+Solver;Always+learning+%F0%9F%9A%80;Open+to+new+opportunities!" alt="Typing SVG" /> 
-  </a> 
-</p> 
-<!-- ============ BADGES ============ --> 
+
+<!-- ============ TERMINAL TYPING ============ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-7E22CE?style=for-the-badge&labelColor=2E026D" />
-</p> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);%3E+I'm+Valerija+Bo%C4%8Dkaj;%3E+Information+and+Computer+Scientist;%3E+Web+%2B+Software+Development;%3E+Data+Analytics+%F0%9F%93%8A;%3E+status%3A+open_to_work+%E2%9C%85" alt="Typing SVG" />
+</p>
 
-</p> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" /> 
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" align="center"> About Me </h2> 
-  <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open__to__work-7E22CE?style=for-the-badge&labelColor=2E026D" />
+  <img src="https://komarev.com/ghpvc/?username=vbockaj&label=profile%20views&color=9333EA&style=for-the-badge" />
+</p>
 
-- 🎓 M.A. Information and Computer Science at University of Zagreb
-- 💼 Currently working as Administrative Assistant at Student Center
-- 🔭 Working on Job Application Tracker, Quiz App, E-Commerce Front-End, and Dashboard UI
-- 🌱 Learning C++, Java
-- 🎯 Looking for Full-time roles in Web & Software Development, Data Analytics, and Data Annotation
-- 📫 Reach me at vbockaj@gmail.com
-- 📄 [My Resume](YOUR_RESUME_LINK)
-- ⚡ Fun fact: **YOUR FUN FACT**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
+
+<!-- ============ ABOUT ============ -->
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" align="center"> <code>$ whoami</code></h2>
+
+<img align="right" alt="Girl coding" width="330" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
+
+```javascript
+const valerija = {
+  education:   "M.A. Information and Computer Science @ University of Zagreb",
+  currentRole: "Administrative Assistant @ Student Center",
+  building:    ["Job Application Tracker", "Quiz App",
+                "E-Commerce Front-End", "Dashboard UI"],
+  learning:    ["C++", "Java"],
+  lookingFor:  ["Web & Software Development",
+                "Data Analytics", "Data Annotation"],
+  contact:     "vbockaj@gmail.com",
+  funFact:     "YOUR FUN FACT"
+};
+```
 
 <br clear="right"/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
 
-## 🛠️ Tech Stack
+<!-- ============ TECH STACK ============ -->
+<h2>🛠️ <code>$ ls ~/skills</code></h2>
 
-<p align="center"> 
-  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,react,nodejs,mysql,git,github,vscode&perline=12" /> 
-  </a> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,react,nodejs,mysql,git,github,vscode&perline=12&theme=dark" />
+  </a>
 </p>
 
----
+<h3 align="center"><code>~/design-tools</code></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Photopea-7E22CE?style=for-the-badge&logo=photopea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-9333EA?style=for-the-badge&logo=gimp&logoColor=white" />
+</p>
 
-## 🚀 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
 
-| Project | Description | Tech |
+<!-- ============ PROJECTS ============ -->
+<h2>🚀 <code>$ git log --projects</code></h2>
+
+| 📁 Repository | 📝 Description | ⚙️ Stack |
 |---|---|---|
-| [**PROJECT_ONE**](https://github.com/vbockaj/PROJECT_ONE) | One-line description of what it does and the impact | `Python` `React` |
-| [**PROJECT_TWO**](https://github.com/vbockaj/PROJECT_TWO) | One-line description of what it does and the impact | `C` `STM32` |
-| [**PROJECT_THREE**](https://github.com/vbockaj/PROJECT_THREE) | One-line description of what it does and the impact | `Node.js` `MongoDB` |
+| [**job-application-tracker**](https://github.com/vbockaj/REPO_NAME) | One-line description of what it does | `React` `Node.js` |
+| [**quiz-app**](https://github.com/vbockaj/REPO_NAME) | One-line description of what it does | `JavaScript` `HTML` `CSS` |
+| [**e-commerce-front-end**](https://github.com/vbockaj/REPO_NAME) | One-line description of what it does | `React` `TypeScript` |
+| [**dashboard-ui**](https://github.com/vbockaj/REPO_NAME) | One-line description of what it does | `React` `CSS` |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vbockaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbockaj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- ============ STATS ============ -->
+<h2>📊 <code>$ git stats --streak</code></h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbockaj&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbockaj&background=1A0B2E&border=7E22CE&stroke=7E22CE&ring=C026D3&fire=E0AAFF&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=E0AAFF&sideLabels=C084FC&dates=A78BFA&border_radius=12" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vbockaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vbockaj&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<!-- ============ SNAKE ============ -->
+<h2>🐍 <code>$ ./contributions.sh</code></h2>
 
----
-
-## 🐍 Contribution Snake
-
-<!-- Needs the GitHub Action in .github/workflows/snake.yml (see setup notes) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vbockaj/vbockaj/output/github-contribution-grid-snake-dark.svg" />
@@ -81,18 +86,21 @@
   </picture>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
 
-## 🤝 Connect With Me
+<!-- ============ CONNECT ============ -->
+<h2>🤝 <code>$ ping valerija</code></h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2E026D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vbockaj@gmail.com"><img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-9333EA?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-C026D3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<!-- ============ ANIMATED FOOTER ============ -->
+<p align="center"><code>// thanks for visiting ✨ — process exited with code 0</code></p>
+
+<!-- ============ FOOTER ============ -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:7E22CE,100:2E026D&height=140&section=footer" />
 </p>
