@@ -92,7 +92,7 @@ const valerija = {
 <h2>🤝 <code>$ ping valerija</code></h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2E026D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/valerijabockaj"><img src="https://img.shields.io/badge/LinkedIn-2E026D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vbockaj@gmail.com"><img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-9333EA?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-C026D3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
