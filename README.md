@@ -30,7 +30,7 @@ const valerija = {
   lookingFor:  ["Web & Software Development",
                 "Data Analytics", "Data Annotation"],
   contact:     "vbockaj@gmail.com",
-  funFact:     "YOUR FUN FACT"
+  funFact:     "I’ve traveled to 7 countries through student volunteering."
 };
 ```
 
