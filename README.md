@@ -49,6 +49,7 @@ const valerija = {
 
 <h3 align="center"><code>~/design-tools</code></h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photopea-7E22CE?style=for-the-badge&logo=photopea&logoColor=white" />
   <img src="https://img.shields.io/badge/GIMP-9333EA?style=for-the-badge&logo=gimp&logoColor=white" />
 </p>
