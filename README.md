@@ -61,7 +61,7 @@ const valerija = {
 
 | 📁 Repository | 📝 Description | ⚙️ Stack |
 |---|---|---|
-| [**job-application-tracker**](https://vbockaj.github.io/job-tracker/) | One-line description of what it does | `React` `Node.js` |
+| [**job-application-tracker**](https://vbockaj.github.io/job-tracker/) | Tracks job applications, statuses, deadlines, and company information in one place | `React` `Node.js` |
 | [**quiz-app**](https://vbockaj.github.io/quiz-app/) | A timed multiple-choice quiz app in vanilla JS, HTML, and CSS | `JavaScript` `HTML` `CSS` |
 | [**e-commerce-front-end**](https://vbockaj.github.io/e-commerce-frontend/) | Interactive e-commerce website for building and customizing your ideal workspace | `React` `TypeScript` |
 | [**dashboard-ui**](https://github.com/vbockaj/REPO_NAME) | One-line description of what it does | `React` `CSS` |
