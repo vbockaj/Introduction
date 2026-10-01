@@ -62,8 +62,9 @@ const valerija = {
 | 📁 Repository | 📝 Description | ⚙️ Stack |
 |---|---|---|
 | [**job-application-tracker**](https://vbockaj.github.io/job-tracker/) | Tracks job applications, statuses, deadlines, and company information in one place | `React` `Node.js` |
-| [**quiz-app**](https://vbockaj.github.io/quiz-app/) | A timed multiple-choice quiz app pulling fresh questions from a REST API | `JavaScript` `HTML` `CSS` `REST API` |
 | [**e-commerce-front-end**](https://vbockaj.github.io/e-commerce-frontend/) | Interactive e-commerce website for building and customizing your ideal workspace | `React` `TypeScript` |
+| [**colour-contrast-checker**](https://vbockaj.github.io/colour-contrast-checker/) | Interactive colour contrast checker for improving web accessibility | `Angular` `TypeScript` |
+| [**quiz-app**](https://vbockaj.github.io/quiz-app/) | A timed multiple-choice quiz app pulling fresh questions from a REST API | `JavaScript` `HTML` `CSS` `REST API` |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E026D,50:7E22CE,100:C026D3&height=3" />
 
